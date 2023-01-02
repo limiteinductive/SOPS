@@ -11,7 +11,7 @@ Voici quelques exemples de mots écrits avec le SOPS :
 
 | Français | SOPS    | Prononciation |
 |----------|---------|---------------|
-| bonjour  | boqjwr  | bɔ̃ʒuʁ         |
+| bonjour  | bqojwr  | bɔ̃ʒuʁ         |
 | chien    |  xyqi   | ʃjɛ̃           |
 | coeur    |  ker    | kœʁ           |
 | école    |  ckol   | ekɔl          |
@@ -27,8 +27,8 @@ Voici quelques exemples de phrases écrites avec le SOPS :
 
 | Français | SOPS    | Prononciation |
 |----------|---------|---------------|
-| Bonjour, je m'appelle Pierre. | boqjwr, ʒe m'apɛl piɛʁ. | bɔ̃ʒuʁ, ʒə mɑpɛl pjɛʁ. |
-| Je vais à l'école. | ʒe vɛ a l'ekɔl. | ʒə vɛ a lɛkɔl. |
+| Bonjour, je m'appelle Pierre. | bqojwr, je maphl pyer | bɔ̃ʒuʁ, ʒə mɑpɛl pjɛʁ. |
+| Je vais à l'école. | je vh a lckol | ʒə vɛ a lɛkɔl. |
 | Je mange toutes sortes de choses et j'aime ça | je mqaj twt sort de xoz c jhm sa | ʒə maŋə tut sɔʁtə də ʃɔzə ɛt ʒɑmə sa |
 
 ## Règles
